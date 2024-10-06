@@ -1,5 +1,5 @@
-#.gitignore
-#ignore All
+# .gitignore
+# ignore All
 *
 !*/
 
